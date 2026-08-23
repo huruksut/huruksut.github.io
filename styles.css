@@ -826,10 +826,10 @@ h3 {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 32px;
-  padding: 0 24px;
-  font-size: 15px;
-  line-height: 1.5;
+  gap: 24px;
+  font-size: var(--text-small);
+  font-weight: 600;
+  line-height: 1.45;
 }
 
 .analytics-consent-actions {
